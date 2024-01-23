@@ -1,4 +1,4 @@
-### Example of the Builder Design Pattern (Faceted)
+### Example of the Factory Design Pattern (Class)
 
 This example of the faceted builder design pattern was develop using C# language.
 
